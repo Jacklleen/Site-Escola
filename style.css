@@ -84,3 +84,10 @@ body {
     color: #181b76;
     text-align: center;
 }
+
+.rodape-icone {
+    display: flex;
+    width: 12%;
+    height: 12px;
+    padding: 12px 0;
+}
